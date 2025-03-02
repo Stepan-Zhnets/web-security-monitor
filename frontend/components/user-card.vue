@@ -25,7 +25,7 @@
         <v-card-actions>
             <NuxtLink :to="`/users/${user.name}`">
                 <v-btn variant="tonal">
-                    Open camera
+                    Info
                 </v-btn>
             </NuxtLink>
         </v-card-actions>
