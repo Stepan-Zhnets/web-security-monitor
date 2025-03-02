@@ -44,7 +44,7 @@
                 >
                     <v-divider :thickness="3" class="my-2"></v-divider>
                     number: +7(***)***-**-** <br>
-                    email: firewatch@org.com <br>
+                    email: wsm@org.com <br>
                     address: ----------
                 </v-card>
             </div>

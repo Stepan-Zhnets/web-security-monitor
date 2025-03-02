@@ -6,7 +6,7 @@
                     :width="600"
                     aspect-ratio="16/9"
                     cover
-                    src="./../public/Firewatch_Logo.png"
+                    src="./../public/WSM_Logo.png"
                 ></v-img>
             </div>
     <v-sheet
